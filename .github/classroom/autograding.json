@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Run PA unit tests",
+      "setup": "",
+      "run": "gradle :Streaming:test --info",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
